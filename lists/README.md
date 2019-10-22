@@ -1,4 +1,4 @@
 # listas
-Há três tags para listas: <ol>, <ul> e <dl>
+Há três tags para listas: &lt;ol&gt;, &lt;ul&gt; e &lt;dl&gt;.
 
-Listas aninhadas são listas: tags ol e ul dentro de outras tags ol e ul.
+Listas aninhadas são listas: tags &lt;ol&gt; e &lt;ul&lt; dentro de outras tags &lt;ol&lt; e &lt;ul&lt;.
